@@ -1,1 +1,1 @@
-debug repository
+github api debug repository
